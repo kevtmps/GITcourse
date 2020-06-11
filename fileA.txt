@@ -1,1 +1,1 @@
-Has a cat.
+Has a cat and a dog.
